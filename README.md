@@ -1,4 +1,4 @@
-# A Generalize Repositroy for All React Todos with diffrent Statemanagement api
+# A Generalize Repositroy for All React Todos with different State management api
 
 * React Todo App using React state (class based component)
   * code : [github repo](https://github.com/WhoAdarshPandya/React-TodoApp)
